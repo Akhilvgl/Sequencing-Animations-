@@ -9,7 +9,7 @@ body {
     overflow: hidden;
 }
 
-#alice-container {
+#sp-container {
     width: 90vh;
     display: grid;
     place-items: center;
@@ -19,14 +19,14 @@ body {
         ". . a3";
 }
 
-#alice1 {
+#sp1 {
     grid-area: a1;
 }
 
-#alice2 {
+#sp2 {
     grid-area: a2;
 }
 
-#alice3 {
+#sp3 {
     grid-area: a3;
 }
